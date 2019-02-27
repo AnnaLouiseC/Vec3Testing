@@ -1,0 +1,7 @@
+# Getting started with Git
+
+1. Initialise the folder in terminal with the folowing command
+
+```
+git init
+```
